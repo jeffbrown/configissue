@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: configissue
+---
+testFramework: junit
+sourceLanguage: java
